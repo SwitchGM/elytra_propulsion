@@ -1,0 +1,8 @@
+# 'material' what item is used the boost
+# 'multiplier' changes the speed of the boost
+# 'cooldown' cooldown in seconds until the next boost
+# 'cooldown_message' the message displayed when attempting to boost before cooldown has ended
+material: STICK
+multiplier: 5
+cooldown: 3
+cooldown_message: "&7You are on cooldown !"
