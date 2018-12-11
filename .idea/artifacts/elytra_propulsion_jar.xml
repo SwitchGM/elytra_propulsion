@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="elytra_propulsion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/elytra_propulsion_jar</output-path>
+    <root id="archive" name="elytra_propulsion.jar">
+      <element id="module-output" name="elytra_propulsion" />
+    </root>
+  </artifact>
+</component>
